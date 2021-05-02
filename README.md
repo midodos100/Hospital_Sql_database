@@ -1,2 +1,2 @@
 # SQL-PROJECTS
-SAme examples of my Sql Projects
+Same examples of my Sql Projects
